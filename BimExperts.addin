@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>BimExperts</Name>
+    <Text>ExternalApp</Text>
+    <Description>Creates the ui</Description>
+    <Assembly>BimExperts.dll</Assembly>
+    <FullClassName>BimExperts.ExternalApp</FullClassName>
+    <ClientId>0fa55498-e5a2-4ce7-9dbf-d84a96cd46a8</ClientId>
+    <VendorId>BimExperts</VendorId>
+    <VendorDescription>andrej.licanin@bimexperts.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
